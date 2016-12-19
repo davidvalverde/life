@@ -4,7 +4,7 @@
 
 ## ¿Qué es esto?
 
-Es un experimiento para tratar la vida como un proyecto software. Está basado en los proyectos de [`Ferros Aboukhadijeh`](https://github.com/ferros/Life) y [`Una Kravets`](https://github.com/una/personal-goals).
+Es un experimiento para tratar la vida como un proyecto software. Está basado en los proyectos de [`Feross Aboukhadijeh`](https://github.com/feross/Life) y [`Una Kravets`](https://github.com/una/personal-goals).
 
 ## Rutinas diarias
 
