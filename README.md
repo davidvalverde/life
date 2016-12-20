@@ -9,8 +9,10 @@ Es un experimiento para tratar la vida como un proyecto software. Está basado e
 ## Rutinas diarias
 
 - :black_nib: Escribir en el diario.
-- :muscle: Hacer ejercicio y controlar la alimentación.
+- :muscle: Hacer media hora de ejercicio.
+- :spaghetti: Controlar la alimentación.
 - :book: Leer media hora.
+- :pray: Meditar unos minutos.
 - :camera: Tomar más fotografías de los momentos del día.
 - :white_check_mark: Revisar objetivos diarios.
 
