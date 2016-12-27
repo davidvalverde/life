@@ -18,14 +18,14 @@ Es un experimiento para tratar la vida como un proyecto software. Está basado e
 
 ## Rutinas semanales
 
-- :black_nib: Escribir un post en el blog.
 - :computer: Escribir código y publicarlo en Github.
 - :spaghetti: Hacer el menú semanal.
 - :muscle: Comprobar peso y revisar progreso.
 - :white_check_mark: Revisar objetivos semanales.
 
 ## Rutinas mensuales
-
+  
+- :black_nib: Escribir un post en el blog.
 - :book: Leer un libro.
 - :mortar_board: Seguir un curso.
 - :white_check_mark: Revisar objetivos mensuales.
