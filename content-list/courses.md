@@ -1,5 +1,6 @@
 # Cursos
 
 - [ ] [MOOC Empleable](http://empleable.info/)
-- [ ] [Spring MVC](https://openwebinars.net/cursos/spring-mvc-online/)
+- [x] [Spring MVC](https://openwebinars.net/cursos/spring-mvc-online/)
+- [ ] [Java Intermedio](https://openwebinars.net/cursos/java-intermedio/)
 - [ ] [Java para APIs REST](https://platzi.com/cursos/java-avanzado/)
