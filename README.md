@@ -14,6 +14,7 @@ Es un experimiento para tratar la vida como un proyecto software. Está basado e
 - :book: Leer media hora.
 - :pray: Meditar unos minutos.
 - :camera: Tomar más fotografías de los momentos del día.
+- :mortar_board: Estudiar inglés con Duolingo.
 - :white_check_mark: Revisar objetivos diarios.
 
 ## Rutinas semanales
