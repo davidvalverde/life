@@ -4,8 +4,8 @@
 
 Las series a las que quiero echarles un vistazo.
 
-- Narcos (Netflix).
 - Black Mirror (Netflix).
+- Narcos (Netflix).
 
 ## Ready
 
@@ -14,8 +14,8 @@ Las series que quiero seguir viendo y tiene nuevos capítulos y todavía no he p
 | Nombre | Temporada vista |
 |:--|:--|
 | Orange is the new black | 3 |
-| The Walking Dead | 7 |
 | The Big Bang Theory | 8 |
+| The Walking Dead | 7 |
 
 ## On Hold
 
@@ -24,9 +24,9 @@ Las series que quiero seguir viendo, pero todavía no hay capítulos disponibles
 | Nombre | Temporada vista |
 |:--|:--|
 | Juego de Tronos | 7 |
+| Silicon Valley | 4 |
 | Stranger Things | 2 |
 | Westworld | 1 |
-| Silicon Valley | 4 |
 
 ## In Progress
 
