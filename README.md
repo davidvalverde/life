@@ -36,8 +36,12 @@ En este repositorio tendré los grandes objetivos del año o de la vida, las rut
 ## Ideas y otras cosas
                            
 - :computer: [Apps e ideas de proyectos](content-list/project-ideas.md)                           
-- :black_nib: [Blog](content-list/blog-ideas.md)                                     
+- :black_nib: [Blog](content-list/blog-ideas.md) 
+- :bookmark: [Bookmarks](bookmarks)
 - :mortar_board: [Cursos](content-list/courses.md)
 - :books: [Libros](content-list/books.md)  
 - :movie_camera: [Películas](content-list/movies.md)
+- :white_check_mark: [Revisión](review)
 - :tv: [Series](content-list/tv-shows.md)
+- :mortar_board: [TIL, Today I Learned](til)
+- :heart: [Vida](life-list)
