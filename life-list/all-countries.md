@@ -1,3 +1,5 @@
+# Países visitados (6/204)
+
 - [ ] Afghanistan
 - [ ] Albania
 - [ ] Algeria
