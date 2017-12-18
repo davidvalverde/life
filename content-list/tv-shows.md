@@ -11,22 +11,22 @@ Las series a las que quiero echarles un vistazo.
 
 Las series que quiero seguir viendo y tiene nuevos capítulos y todavía no he podido dedicarles tiempo.
 
-| Nombre | Temporada vista |
-|:--|:--|
-| Orange is the new black | 3 |
-| The Big Bang Theory | 8 |
-| The Walking Dead | 7 |
+| Nombre | Temporada vista | Plataforma |
+|:--|:--|:--|
+| Orange is the new black | 3 | Netflix |
+| The Big Bang Theory | 8 | ? |
+| The Walking Dead | 7 | ? |
 
 ## On Hold
 
 Las series que quiero seguir viendo, pero todavía no hay capítulos disponibles.
 
-| Nombre | Temporada vista |
-|:--|:--|
-| Juego de Tronos | 7 |
-| Silicon Valley | 4 |
-| Stranger Things | 2 |
-| Westworld | 1 |
+| Nombre | Temporada vista | Plataforma | Estreno |
+|:--|:--|:--|:--|
+| Juego de Tronos | 7 | HBO | ? |
+| Silicon Valley | 4 | HBO | ? |
+| Stranger Things | 2 | Netflix | ? |
+| Westworld | 1 | HBO | ? |
 
 ## In Progress
 
