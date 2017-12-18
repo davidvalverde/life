@@ -1,8 +1,10 @@
 # Diario fitness 2018
 
-Diario de los ejercicios realizados cada día y control de peso semanal.
+Diario de los ejercicios realizados cada día y control de peso mensual.
 
 ## Enero (0/31)
+
+Peso: -
 
 1.
 2.
@@ -38,6 +40,8 @@ Diario de los ejercicios realizados cada día y control de peso semanal.
 
 ## Febrero (0/28)
 
+Peso: -
+
 1.
 2.
 3.
@@ -68,6 +72,8 @@ Diario de los ejercicios realizados cada día y control de peso semanal.
 28.
 
 ## Marzo (0/31)
+
+Peso: -
 
 1.
 2.
@@ -103,6 +109,8 @@ Diario de los ejercicios realizados cada día y control de peso semanal.
 
 ## Abril (0/30)
 
+Peso: -
+
 1.
 2.
 3.
@@ -135,6 +143,8 @@ Diario de los ejercicios realizados cada día y control de peso semanal.
 30.
 
 ## Mayo (0/31)
+
+Peso: -
 
 1.
 2.
@@ -170,6 +180,8 @@ Diario de los ejercicios realizados cada día y control de peso semanal.
 
 ## Junio (0/30)
 
+Peso: -
+
 1.
 2.
 3.
@@ -202,6 +214,8 @@ Diario de los ejercicios realizados cada día y control de peso semanal.
 30.
 
 ## Julio (0/31)
+
+Peso: -
 
 1.
 2.
@@ -237,6 +251,8 @@ Diario de los ejercicios realizados cada día y control de peso semanal.
 
 ## Agosto (0/31)
 
+Peso: -
+
 1.
 2.
 3.
@@ -271,6 +287,8 @@ Diario de los ejercicios realizados cada día y control de peso semanal.
 
 ## Septiembre (0/30)
 
+Peso: -
+
 1.
 2.
 3.
@@ -303,6 +321,8 @@ Diario de los ejercicios realizados cada día y control de peso semanal.
 30.
 
 ## Octubre (0/31)
+
+Peso: -
 
 1.
 2.
@@ -338,6 +358,8 @@ Diario de los ejercicios realizados cada día y control de peso semanal.
 
 ## Noviembre (0/30)
 
+Peso: -
+
 1.
 2.
 3.
@@ -370,6 +392,8 @@ Diario de los ejercicios realizados cada día y control de peso semanal.
 30.
 
 ## Diciembre (0/31)
+
+Peso: -
 
 1.
 2.
