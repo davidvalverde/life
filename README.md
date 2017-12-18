@@ -44,4 +44,3 @@ En este repositorio tendré los grandes objetivos del año o de la vida, las rut
 - :white_check_mark: [Revisión](review)
 - :tv: [Series](content-list/tv-shows.md)
 - :mortar_board: [TIL, Today I Learned](til)
-- :heart: [Vida](life-list)
