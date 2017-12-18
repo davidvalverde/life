@@ -1,6 +1,6 @@
 # Diario fitness <year>
 
-Diario de los ejercicios realizados cada día y control de peso semanal.
+Diario de los ejercicios realizados cada día y control de peso mensual.
 
 ## Enero (0/31)
 
