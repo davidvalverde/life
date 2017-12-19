@@ -6,6 +6,7 @@ Las series a las que quiero echarles un vistazo.
 
 - Black Mirror (Netflix).
 - Narcos (Netflix).
+- Viajeros (Netflix).
 
 ## Ready
 
