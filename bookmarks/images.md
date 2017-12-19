@@ -1,5 +1,9 @@
 # Imágenes
 
+## Infografías
+
+- [Cómo hacer infografías: 90 recursos útiles](https://www.40defiebre.com/recursos-para-crear-infografias/).
+
 ## Repositorio de imágenes
 
 - [10 bancos de imágenes gratis para tus contenidos](https://www.40defiebre.com/donde-conseguir-imagenes-contenidos/).
