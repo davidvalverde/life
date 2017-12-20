@@ -1,5 +1,11 @@
 # Imágenes
 
+## Diagramas
+
+- [12 mejores herramientas para crear diagramas online](http://www.pcwebtips.com/2012/10/paginas-crear-driagramas-graficos-online.html).
+- [Creately](https://creately.com/). Online Diagram Software to draw Flowcharts, UMLs, etc.
+- [Gliffy](https://www.gliffy.com/products/online/). Online Diagram SaaS Software.
+
 ## Infografías
 
 - [Cómo hacer infografías: 90 recursos útiles](https://www.40defiebre.com/recursos-para-crear-infografias/).
