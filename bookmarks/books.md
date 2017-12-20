@@ -5,3 +5,4 @@
 - [Free Editorial](https://freeditorial.com/). Libros para descargar. En inglés y español.
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books). Listado en Github de libros de programación.
 - [OpenLibra](https://openlibra.com/es). La biblioteca libre online.
+- [pepa.holla.cz](http://pepa.holla.cz/wp-content/uploads/). Recopilatorio de libros técnicos.
