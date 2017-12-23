@@ -14,7 +14,6 @@ Las series que quiero seguir viendo y tiene nuevos capítulos y todavía no he p
 
 | Nombre | Temporada vista | Plataforma |
 |:--|:--|:--|
-| Orange is the new black | 3 | Netflix |
 | The Big Bang Theory | 8 | ? |
 | The Walking Dead | 7 | ? |
 
@@ -35,6 +34,7 @@ Las series que estoy viendo actualmente.
 
 | Nombre | Último capítulo visto |
 |:--|:--|
+| Orange is the new blackblack | 4.1 |
 
 ## Abandoned
 
