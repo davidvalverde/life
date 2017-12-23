@@ -34,7 +34,7 @@ Las series que estoy viendo actualmente.
 
 | Nombre | Último capítulo visto |
 |:--|:--|
-| Orange is the new blackblack | 4.1 |
+| Orange is the new black | 4.2 |
 
 ## Abandoned
 
