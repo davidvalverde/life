@@ -4,7 +4,7 @@
 
 ## ¿Qué es esto?
 
-Es un experimiento para tratar la vida como un proyecto software. Está basado en los proyectos de [`Feross Aboukhadijeh`](https://github.com/feross/Life) y [`Una Kravets`](https://github.com/una/personal-goals).
+Es un experimiento para tratar la vida como un proyecto software. Está basado en los proyectos de [`Feross Aboukhadijeh`](https://github.com/feross/Life) y [`Una Kravets`](https://github.com/una/personal-goals). Y con ideas obtenidas de [otros](inspiration.md).
 
 En este repositorio tendré los grandes objetivos del año o de la vida, las rutinas diarias, semanales y mensuales, y las distintas listas de contenidos: libros, películas, enlaces, etc. Los proyectos y tareas diarias los manejo directamente con Trello. Los happy-moments y lo acontecido durante el día lo registro en Journey.
 
