@@ -6,6 +6,7 @@ Enlaces interesantes ordenados por categorías.
   - [Útiles](css/utils.md).
 - [Git](git.md).
 - [Imágenes](images.md).
+- [Inglés](english.md).
 - Java.
   - [Hibernate](java/hibernate.md).
   - [Jackson](java/jackson.md).
