@@ -12,6 +12,7 @@ Enlaces interesantes ordenados por categorías.
   - [Jackson](java/jackson.md).
 - JavaScript.
   - [Angular](javascript/angular.md).
+- [Juegos](games.md).
 - [Libros](books.md).
 - PHP.
   - [Drupal](php/drupal.md).
