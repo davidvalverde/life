@@ -19,3 +19,5 @@ Este repositorio está inspirado en otros repositorios para obtener ideas:
 - [Cristina F, Sanz](https://github.com/cristinafsanz/personal-goals).
 - [Zerok](https://github.com/zerok/personal-goals).
 - [J. Keener](https://github.com/jkeener/personal-goals).
+- [Rachel FTW](https://github.com/rachel-ftw/personal-goals).
+- [Laura B. Steele](https://github.com/laurabsteele/personal-goals).
