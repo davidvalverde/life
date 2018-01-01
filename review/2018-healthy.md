@@ -6,7 +6,7 @@ Diario de los ejercicios realizados cada día y control de peso mensual.
 
 Peso: 113,6
 
-1. -
+1. ...
 2.
 3.
 4.
