@@ -4,9 +4,9 @@ Diario de los ejercicios realizados cada día y control de peso mensual.
 
 ## Enero (0/31)
 
-Peso: -
+Peso: 113,6
 
-1.
+1. -
 2.
 3.
 4.
@@ -63,7 +63,7 @@ Peso: -
 19.
 20.
 21.
-22.
+22.st 
 23.
 24.
 25.
