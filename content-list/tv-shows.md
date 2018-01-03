@@ -34,8 +34,8 @@ Las series que estoy viendo actualmente.
 
 | Nombre | Último capítulo visto |
 |:--|:--|
-| Orange is the new black | 4.4 |
-| The Grand Tour | 1.1 |
+| Orange is the new black | 4.5 |
+| The Grand Tour | 1.2 |
 
 ## Abandoned
 
