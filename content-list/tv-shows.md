@@ -14,6 +14,7 @@ Las series que quiero seguir viendo y tiene nuevos capítulos y todavía no he p
 
 | Nombre | Temporada vista | Plataforma |
 |:--|:--|:--|
+| The 100 | 1 | Netflix |
 | The Big Bang Theory | 8 | ? |
 | The Walking Dead | 7 | ? |
 
