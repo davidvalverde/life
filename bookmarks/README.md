@@ -11,6 +11,7 @@ Enlaces interesantes ordenados por categorías.
 - Java.
   - [Hibernate](java/hibernate.md).
   - [Jackson](java/jackson.md).
+  - [Útiles](java/utils.md).
 - JavaScript.
   - [Angular](javascript/angular.md).
   - [Útiles](javascript/utils.md).
