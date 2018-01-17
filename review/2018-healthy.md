@@ -2,7 +2,7 @@
 
 Diario de los ejercicios realizados cada día y control de peso mensual.
 
-## Enero (0/31)
+## Enero (1/31)
 
 Peso: 113,6
 
