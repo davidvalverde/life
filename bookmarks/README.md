@@ -16,6 +16,7 @@ Enlaces interesantes ordenados por categorías.
 - [Libros](books.md).
 - PHP.
   - [Drupal](php/drupal.md).
+- [Podcasts](podcasts.md).
 - [Redes sociales](social-networks.md).
 - [Rendimiento web](web-performance.md).
 - Salud.
