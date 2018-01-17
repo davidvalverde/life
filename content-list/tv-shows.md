@@ -14,6 +14,7 @@ Las series que quiero seguir viendo y tiene nuevos capítulos y todavía no he p
 
 | Nombre | Temporada vista | Plataforma |
 |:--|:--|:--|
+| Orange is the new black | 4 | Netflix/Movistar |
 | The Big Bang Theory | 8 | ? |
 | The Walking Dead | 7 | ? |
 
@@ -24,7 +25,6 @@ Las series que quiero seguir viendo, pero todavía no hay capítulos disponibles
 | Nombre | Temporada vista | Plataforma | Estreno |
 |:--|:--|:--|:--|
 | Juego de Tronos | 7 | HBO | ? |
-| Orange is the new black | 4 | Netflix | ? |
 | Silicon Valley | 4 | HBO | ? |
 | Stranger Things | 2 | Netflix | ? |
 | Westworld | 1 | HBO | ? |
@@ -35,7 +35,7 @@ Las series que estoy viendo actualmente.
 
 | Nombre | Último capítulo visto |
 |:--|:--|
-| The 100 | 2.1 |
+| The 100 | 2.4 |
 | The Grand Tour | 1.2 |
 
 ## Abandoned
