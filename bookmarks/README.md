@@ -7,6 +7,7 @@ Enlaces interesantes ordenados por categorías.
   - [Útiles](css/utils.md).
 - [Empleo](job-hunting.md).
 - [Git](git.md).
+- [Herramientas web](web-tools.md).
 - [Imágenes](images.md).
 - [Inglés](english.md).
 - Java.
