@@ -35,7 +35,7 @@ Las series que estoy viendo actualmente.
 
 | Nombre | Último capítulo visto |
 |:--|:--|
-| The 100 | 2.6 |
+| The 100 | 2.9 |
 | The Grand Tour | 1.2 |
 
 ## Abandoned
