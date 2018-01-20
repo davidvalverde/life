@@ -5,7 +5,6 @@
 Las series a las que quiero echarles un vistazo.
 
 - Black Mirror (Netflix).
-- Narcos (Netflix).
 - Viajeros (Netflix).
 
 ## Ready
@@ -35,6 +34,7 @@ Las series que estoy viendo actualmente.
 
 | Nombre | Último capítulo visto |
 |:--|:--|
+| Narcos | 1.1 |
 | The 100 | 2.9 |
 | The Grand Tour | 1.2 |
 
