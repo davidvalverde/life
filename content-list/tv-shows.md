@@ -34,8 +34,8 @@ Las series que estoy viendo actualmente.
 
 | Nombre | Último capítulo visto |
 |:--|:--|
-| Narcos | 1.7 |
-| The 100 | 3.7 |
+| Narcos | 1.9 |
+| The 100 | 3.14 |
 | The Grand Tour | 1.2 |
 
 ## Abandoned
