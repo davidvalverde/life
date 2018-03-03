@@ -13,7 +13,6 @@ Las series que quiero seguir viendo y tiene nuevos capítulos y todavía no he p
 
 | Nombre | Temporada vista | Plataforma |
 |:--|:--|:--|
-| Narcos | 1 | Netflix |
 | Orange is the new black | 4 | Netflix/Movistar |
 | The 100 | 3 | Netflix |
 | The Big Bang Theory | 8 | ? |
@@ -36,6 +35,7 @@ Las series que estoy viendo actualmente.
 
 | Nombre | Último capítulo visto |
 |:--|:--|
+| Narcos | 2.3 |
 | The Grand Tour | 1.2 |
 
 ## Abandoned
