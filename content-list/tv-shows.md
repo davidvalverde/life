@@ -28,7 +28,7 @@ Las series que quiero seguir viendo, pero todavía no hay capítulos disponibles
 | Juego de Tronos | 7 | HBO | ? |
 | Silicon Valley | 4 | HBO | ? |
 | Stranger Things | 2 | Netflix | ? |
-| Westworld | 1 | HBO | ? |
+| Westworld | 1 | HBO | 22 abril |
 
 ## In Progress
 
